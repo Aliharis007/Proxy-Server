@@ -1,4 +1,4 @@
-### 🌐 **Python Proxy Server**  
+# 🌐 **Python Proxy Server**  
 
 A lightweight, multi-threaded HTTP proxy server built with Python. It intercepts and forwards HTTP requests while handling errors efficiently.  
 
